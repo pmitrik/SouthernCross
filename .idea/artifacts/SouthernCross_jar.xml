@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SouthernCross:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SouthernCross_jar</output-path>
+    <root id="archive" name="SouthernCross.jar">
+      <element id="module-output" name="SouthernCross" />
+    </root>
+  </artifact>
+</component>
